@@ -19,6 +19,7 @@ Architettura client-server multithread in cui abbiamo:
 
 
 ---Protocollo---
+
 Client e Server si avvalgono della comunicazione tramite messaggi testuali
 il protocollo mette a disposizione i seguenti messaggi:
 - PLAY -> richiesta di entrare in partita
